@@ -1,6 +1,8 @@
 Este es el repositorio donde deberemos hacer el sofware
-calcular cuantas horas al mes trabaje
+calcular cuantas horas al mes meti
 Cuanto cobrar
-Hoja del tiempo
+
+Hoja del tiempo(Generar)
 Sumar todo y divir
-y generar papel
+
+y generar papel Output
